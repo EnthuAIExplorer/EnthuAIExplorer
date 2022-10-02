@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vadlamudi Srinath
-- 👀 I’m interested in Artifical Intelligence
+- 👀 I’m interested in Machine Learning & Artifical Intelligence
 - 🌱 I’m currently learning Artifical Intelligence Life Cycle
 - 💞️ I’m looking to collaborate on projects related to Computer Vision
 
